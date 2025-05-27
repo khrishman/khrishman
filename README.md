@@ -42,7 +42,7 @@ I'm ambitious, confident, naturally curious, and perpetually working on improvin
 
 - 🌐 Website: [khrishman.com.np](https://khrishman.com.np)
 - 💼 LinkedIn: [Khrishman khadka](https://www.linkedin.com/in/khrishman-khadka-7078a82bb/)
-- 📧 Email: [Khrishman Khadka](contact@khrishman.com.np)
+- 📧 Email: [Khrishman Khadka](mailto:contact@khrishman.com)
 - 🐦 Twitter: [@khrishmankhadka](https://x.com/khrishmankhadka)
 
 ## 📈 Profile Views
