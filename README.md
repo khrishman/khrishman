@@ -6,7 +6,7 @@ I'm ambitious, confident, naturally curious, and perpetually working on improvin
 
 🎓 **Education:** BSc (Hons) Computing with Artificial Intelligence  
 🌐 **Website:** [khrishman.com.np](https://khrishman.com.np)  
-📍 **Location:** Nepal
+📍 **Location:** Kathmandu, Nepal
 
 ## 🚀 Tech Stack
 
