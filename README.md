@@ -19,6 +19,7 @@ I'm ambitious, confident, naturally curious, and perpetually working on improvin
 **Backend Development:**
 - PHP, Laravel
 - Node.js, Express
+- Python, Django
 
 **Databases:**
 - MySQL
