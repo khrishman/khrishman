@@ -53,9 +53,8 @@ I'm ambitious, confident, naturally curious, and perpetually working on improvin
 
 ⭐️ From [Khrishman Khadka](https://github.com/khrishman)- 👋 Hi, I’m @khrishman
 - 👀 I'm interested in Web Development, AI/ML, and User Experience Design
-- 🌱 I'm currently learning Advanced AI/ML integration in web applications, Modern frontend frameworks and libraries, Cloud technologies and deployment strategies
+- 🌱 I'm currently learning Advanced AI/ML integration in web applications, Modern frontend frameworks and libraries, Cloud technologies, and deployment strategies
 - 💞️ I'm looking to collaborate on innovative web applications, AI-powered projects, and open-source contributions
 - 📫 How to reach me: Visit [khrishman.com.np](https://khrishman.com.np) or connect with me on social media
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I combine my AI knowledge with web development to create smarter, more intuitive user experiences!
 
